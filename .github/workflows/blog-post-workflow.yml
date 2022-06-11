@@ -12,5 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: OMNISCIENTIA
+          comment_tag_name: OMNISCIENTIA          
+          commit_message: "Actualizar el perfil con mis últimos artículos de Omniscientia"
           feed_list: "https://omniscientia.es/autor/ivan/rss/"
+          max_post_count: 5
