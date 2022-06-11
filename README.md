@@ -15,10 +15,11 @@
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br><br>
 
-![Metrics](https://metrics.lecoq.io/ivangil-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMadrid&config.twemoji=true&config.display=large)
-<br>
+### :bookmark_tabs: Mis últimos artículos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### Más sobre mí:
+###  :boy: Más sobre mí:
 <details>
   <summary><b>🧑‍🚀 Proyectos actuales</b></summary>
 
@@ -42,7 +43,7 @@
         </td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/ivangil-dev/sance"><b>:electric_plug: Sance</b></a></td>
+	      <td><a href="https://github.com/ivangil-dev/sance"><b>:satellite: Sance</b></a></td>
         <td>Activo (Privado :lock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-yellow?style=flat-square&logo=appveyor"/>
@@ -62,7 +63,7 @@
  
 <details>	
   <br />
-  <summary><b>⚙️ Mis herramientas y espacio de trabajo</b></summary>
+  <summary><b>⚙️ Mis herramientas y espacio de trabajo :computer:</b></summary>
   	<ul>
   	  <li><b>Sistemas:</b> Ubuntu server 20.04 & Windows 11 Pro</li>
 	    <li><b>Portátil: </b> Huawei Matebook D15</li>
