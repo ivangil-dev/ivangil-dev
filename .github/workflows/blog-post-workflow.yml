@@ -9,9 +9,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Añadir mis publicaciones a mi perfil
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: OMNISCIENTIA
           feed_list: "https://omniscientia.es/autor/ivan/rss/"

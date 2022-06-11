@@ -16,8 +16,8 @@
 <br><br>
 
 ### :bookmark_tabs: Mis últimos artículos
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- OMNISCIENTIA:START -->
+<!-- OMNISCIENTIA:END -->
 
 ###  :boy: Más sobre mí:
 <details>
