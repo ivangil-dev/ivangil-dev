@@ -83,6 +83,14 @@
 	</ul>
 </details>
 
+<details>	
+  <br />
+	<summary><b>:chart_with_upwards_trend: La puntuación de mi sitio web principal</b></summary>
+	
+<a href="https://omniscientia.es" target="_blank">![Puntuación Omniscientia-es](./omniscientia.svg "Visitar sitio web")</a>
+	
+</details>
+
 ---- 
 
 <div align="center">
