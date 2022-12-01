@@ -39,6 +39,13 @@
       </tr>
     </thead>
     <tbody>
+	    <tr>
+	      <td><a href="https://github.com/ivangil-dev/kepler"><b>✈️ Kepler</b></a></td>
+        <td>Activo (Publico :unlock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Handlebars-100%25-orange?style=flat-square&logo=appveyor"/>
+        </td>
+      </tr>
       <tr>
 	      <td><a href="https://github.com/ivangil-dev/linneo"><b>:telescope: Linneo</b></a></td>
         <td>Activo (Privado :lock:)</td>
@@ -56,10 +63,25 @@
         </td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/ivangil-dev/Portal/tree/1.22.4-spanish"><b>:ghost: Portal.js español</b></a></td>
+	      <td><a href="https://github.com/ivangil-dev/Portal/tree/2.8.0-spanish"><b>:ghost: Portal.js español</b></a></td>
         <td>Activo (Público :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-99%2C6%25-yellow?style=flat-square&logo=appveyor"/>
+        </td>
+      </tr>
+	     <tr>
+	      <td><a href="https://github.com/ivangil-dev/ghost/tree/5.24.1-c1"><b>:ghost: Ghost Blog en español</b></a></td>
+        <td>Activo (Público :unlock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-79,6%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Handlebars-9,9%25-orange?style=flat-square&logo=appveyor"/>
+        </td>
+      </tr>
+	    <tr>
+	      <td><a href="https://github.com/ivangil-dev/comments-ui/tree/0.12.3-castellano"><b> 🗯️ Comments UI en castellano</b></a></td>
+        <td>Activo (Público :unlock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-98,2%25-yellow?style=flat-square&logo=appveyor"/>
         </td>
       </tr>
     </tbody>
