@@ -62,15 +62,8 @@
         <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-yellow?style=flat-square&logo=appveyor"/>
         </td>
       </tr>
-      <tr>
-	      <td><a href="https://github.com/ivangil-dev/Portal/tree/2.8.0-spanish"><b>:ghost: Portal.js español</b></a></td>
-        <td>Activo (Público :unlock:)</td>
-        <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-99%2C6%25-yellow?style=flat-square&logo=appveyor"/>
-        </td>
-      </tr>
-	     <tr>
-	      <td><a href="https://github.com/ivangil-dev/ghost/tree/5.24.1-c1"><b>:ghost: Ghost Blog en español</b></a></td>
+	    <tr>
+	      <td><a href="https://github.com/ivangil-dev/Ghost/tree/5.26.1-castellano"><b>:ghost: Ghost Blog en español</b></a></td>
         <td>Activo (Público :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-79,6%25-yellow?style=flat-square&logo=appveyor"/>
