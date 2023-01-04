@@ -18,11 +18,11 @@
 <br><br>
 ### :bookmark_tabs: Mis últimos artículos
 <!-- OMNISCIENTIA:START -->
+- [Cómo configurar un servidor VPS desde 0 - Parte 2](https://omniscientia.es/como-configurar-un-servidor-vps-desde-0-parte-2/)
 - [Configurar un servidor VPS desde 0 - Parte 1](https://omniscientia.es/configurar-un-servidor-vps-desde-0/)
 - [Instalando Plesk a pelo y en Español](https://omniscientia.es/instalando-plesk-a-pelo/)
 - [Web SEO a prueba de fallos con Cypress](https://omniscientia.es/probando-tu-web-nivel-dios/)
 - [Guerra Nuclear. Consecuencias, consejos y probabilidades.](https://omniscientia.es/guerra-nuclear/)
-- [Basura espacial, en nombre de toda la humanidad](https://omniscientia.es/basura-espacial-en-nombre-de-toda-la-humanidad/)
 <!-- OMNISCIENTIA:END -->
 
 ###  :boy: Más sobre mí:
