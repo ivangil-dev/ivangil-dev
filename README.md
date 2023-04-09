@@ -34,7 +34,7 @@
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projecto</b></td>
-        <td><b>🌟 Estado</b></td>
+        <td><b>🌟 Estado repositorio</b></td>
         <td><b>👨‍💻 Lenguajes</b></td>
       </tr>
     </thead>
@@ -49,8 +49,15 @@
         </td>
       </tr>
 	    <tr>
-	      <td><a href="https://github.com/ivangil-dev/Voiceify"><b>🗣️ Voiceify</b></a></td>
+	      <td><a href="https://github.com/ivangil-dev/ghostplus"><b>👻 Ghost Plus</b></a></td>
         <td>Activo (Público :unlock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%2C5%25-yellow?style=flat-square&logo=appveyor"/>
+        </td>
+      </tr>
+	    <tr>
+	      <td><a href="https://github.com/ivangil-dev/Voiceify"><b>🗣️ Voiceify</b></a></td>
+        <td>Pausado (Público :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-orange?style=flat-square&logo=appveyor"/>
         </td>
@@ -82,14 +89,14 @@
       </tr>
       <tr>
 	      <td><a href="https://github.com/ivangil-dev/sance"><b>:satellite: Sance</b></a></td>
-        <td>Activo (Privado :lock:)</td>
+        <td>Sólo mantenimiento (Privado :lock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-yellow?style=flat-square&logo=appveyor"/>
         </td>
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/Ghost/tree/5.26.1-castellano"><b>:ghost: Ghost Blog en español</b></a></td>
-        <td>Activo (Público :unlock:)</td>
+        <td>Inactivo (Público :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-79,6%25-yellow?style=flat-square&logo=appveyor"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-9,9%25-orange?style=flat-square&logo=appveyor"/>
@@ -97,7 +104,7 @@
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/comments-ui/tree/0.12.3-castellano"><b> 🗯️ Comments UI en castellano</b></a></td>
-        <td>Activo (Público :unlock:)</td>
+        <td>Inactivo (Público :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-98,2%25-yellow?style=flat-square&logo=appveyor"/>
         </td>
