@@ -26,7 +26,6 @@
 <!-- OMNISCIENTIA:END -->
 
 ###  :boy: Más sobre mí:
-<details>
   <summary><b>🧑‍🚀 Proyectos actuales</b></summary>
 
   <br />
@@ -112,7 +111,6 @@
     </tbody>
   </table>
   <br />
-</details>
  
 <details>	
   <br />
@@ -137,7 +135,19 @@
 </details>
 
 ---- 
+<div align="center">
+	<b>🌟 Buscando nuevas oportunidades laborales 🌟</b><br><br>
 
+
+🔍 ¡Hola! Estoy en búsqueda activa de empleo como programador frontend, backend o fullstack javascript. Tengo 15 años de experiencia, trabajando como autónomo/freelance como diseñador y programador web he utilizado multitud de CMS, frameworks y librerías, lo que me permite adaptarme rápidamente a diferentes entornos y proyectos.😃 
+
+🌐 Aunque no domino el inglés a un nivel conversacional, me esfuerzo constantemente por mejorar mis habilidades lingüísticas y estoy abierto a trabajar en equipos multiculturales. 🌍
+
+💼 Si crees que mi perfil encaja en alguna oportunidad laboral, no dudes en contactarme. Estoy emocionado por asumir nuevos retos y contribuir al éxito de tu equipo. 🚀
+
+¡Gracias por visitar mi perfil! 😊
+</br></br>
+</div>
 <div align="center">
 👇 ¿Te gusta lo que hago? 👇
 </br>
