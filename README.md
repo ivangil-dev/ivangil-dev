@@ -47,9 +47,17 @@
         <img alt="Language" src="https://img.shields.io/badge/SCSS-5%2C7%25-pink?style=flat-square&logo=appveyor"/>
         </td>
       </tr>
+	      <tr>
+	      <td><a href="https://github.com/ivangil-dev/makeInstaller"><b>📦 mYinstaller</b></a></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-98%2C5%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-1%2C5%25-pink?style=flat-square&logo=appveyor"/>
+        </td>
+      </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/ghostplus"><b>👻 Ghost Plus</b></a></td>
-        <td>Activo (Público :unlock:)</td>
+        <td>Pausado temporalmente (Público :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-100%2C5%25-yellow?style=flat-square&logo=appveyor"/>
         </td>
@@ -63,7 +71,7 @@
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/absenta"><b>🌿 Absenta</b></a></td>
-        <td>Activo (Privado :lock:)</td>
+        <td>Inactivo (Privado :lock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-24%2C2%25-yellow?style=flat-square&logo=appveyor"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-56%25-orange?style=flat-square&logo=appveyor"/>
