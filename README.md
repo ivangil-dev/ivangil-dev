@@ -51,7 +51,7 @@
 	      <td><a href="https://github.com/ivangil-dev/quantumNode"><b>⚗️ QuantumNode</b></a></td>
         <td>Activo (Privado :lock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Typescript-82%2C1%25-green?style=flat-square&logo=vue.js"/>
+        <img alt="Language" src="https://img.shields.io/badge/Typescript-82%2C1%25-blue?style=flat-square&logo=Typescript"/>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-17%2C8%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
