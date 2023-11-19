@@ -108,7 +108,7 @@
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/absenta"><b>🏞️ Biotica</b></a></td>
-        <td>Inactivo (Privado :lock:)</td>
+        <td>Activo (Privado :lock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-50%2C8%25-yellow?style=flat-square&logo=Javascript"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-30%25-orange?style=flat-square&logo=appveyor"/>
@@ -126,7 +126,7 @@
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/kepler"><b>✈️ Kepler</b></a></td>
-        <td>Activo (Publico :unlock:)</td>
+        <td>Activo (Pausado temporalmente :unlock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-100%25-orange?style=flat-square&logo=appveyor"/>
         </td>
