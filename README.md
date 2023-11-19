@@ -26,7 +26,7 @@
 <!-- OMNISCIENTIA:END -->
 
 ###  :boy: Más sobre mí:
-  <summary><b>🧑‍🚀 Proyectos actuales</b></summary>
+  <summary><b>🧑‍🚀 Algunos de mis proyectos individuales</b></summary>
 
   <br />
   <table>
@@ -42,40 +42,86 @@
 	      <td><a href="https://ivangil.es"><b>🚩 Sitio web Personal</b></a></td>
         <td>Activo (Privado :lock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-40%2C5%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-40%2C5%25-yellow?style=flat-square&logo=Javascript"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-50%25-orange?style=flat-square&logo=appveyor"/>
-        <img alt="Language" src="https://img.shields.io/badge/SCSS-5%2C7%25-pink?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-5%2C7%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
+	      <tr>
+	      <td><a href="https://github.com/ivangil-dev/quantumNode"><b>⚗️ QuantumNode</b></a></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Typescript-82%2C1%25-green?style=flat-square&logo=vue.js"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-17%2C8%25-pink?style=flat-square&logo=sass"/>
+        </td>
+      </tr>
+	      <tr>
+	      <td><a href="https://github.com/ivangil-dev/CoraAI"><b>📦 Cora AI</b></a></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Vue-60%2C7%25-green?style=flat-square&logo=vue.js"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-1%2C5%25-pink?style=flat-square&logo=sass"/>
+        </td>
+      </tr>
+	      <td><a href="https://gitlab.com/ping-pong-technologies-sl/Aftershare/p00085/platofrm_html"><b>☕ Portal HHRR</b></a></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Typescript-80%2C7%25-blue?style=flat-square&logo=Typescript"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-1%2C5%25-pink?style=flat-square&logo=sass"/>
+        </td>
+      </tr>
+	      <td><a href="https://gitlab.com/ping-pong-technologies-sl/vision360/p00019"><b>📱 PWA VR 360º</b></a></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Vue-90%2C7%25-green?style=flat-square&logo=vue.js"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-8%2C5%25-pink?style=flat-square&logo=sass"/>
+        </td>
+      </tr>
+	      <tr>
+	      <td><b>🕹️ Nostalgia MArcade System</b></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-60%2C5%25-yellow?style=flat-square&logo=Javascript"/>
+        <img alt="Language" src="https://img.shields.io/badge/Custom engine-20%2C5%25-orange?style=flat-square&logo=appveyor"/>
+        </td>
 	      <tr>
 	      <td><a href="https://github.com/ivangil-dev/makeInstaller"><b>📦 mYinstaller</b></a></td>
         <td>Activo (Privado :lock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-98%2C5%25-yellow?style=flat-square&logo=appveyor"/>
-        <img alt="Language" src="https://img.shields.io/badge/SCSS-1%2C5%25-pink?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-98%2C5%25-yellow?style=flat-square&logo=Javascript"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-1%2C5%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/ghostplus"><b>👻 Ghost Plus</b></a></td>
         <td>Pausado temporalmente (Público :unlock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%2C5%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%2C5%25-yellow?style=flat-square&logo=Javascript"/>
         </td>
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/Voiceify"><b>🗣️ Voiceify</b></a></td>
         <td>Pausado (Público :unlock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-orange?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-orange?style=flat-square&logo=Javascript"/>
+        </td>
+      </tr>
+	    <tr>
+	      <td><a href="https://github.com/ivangil-dev/absenta"><b>🏞️ Biotica</b></a></td>
+        <td>Inactivo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-50%2C8%25-yellow?style=flat-square&logo=Javascript"/>
+        <img alt="Language" src="https://img.shields.io/badge/Handlebars-30%25-orange?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-19%2C7%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/absenta"><b>🌿 Absenta</b></a></td>
         <td>Inactivo (Privado :lock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-24%2C2%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-24%2C2%25-yellow?style=flat-square&logo=Javascript"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-56%25-orange?style=flat-square&logo=appveyor"/>
-        <img alt="Language" src="https://img.shields.io/badge/SCSS-19%2C7%25-pink?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-19%2C7%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
 	    <tr>
@@ -89,23 +135,30 @@
 	      <td><a href="https://github.com/ivangil-dev/linneo"><b>:telescope: Linneo</b></a></td>
         <td>Activo (Privado :lock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-24%2C2%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-24%2C2%25-yellow?style=flat-square&logo=Javascript"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-56%25-orange?style=flat-square&logo=appveyor"/>
-        <img alt="Language" src="https://img.shields.io/badge/SCSS-19%2C7%25-pink?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/SCSS-19%2C7%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/ivangil-dev/sance"><b>:satellite: Sance</b></a></td>
         <td>Sólo mantenimiento (Privado :lock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-yellow?style=flat-square&logo=Javascript"/>
+        </td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ivangil-dev/sance"><b>:satellite: GhostEvo</b></a></td>
+        <td>Activo (Privado :lock:)</td>
+        <td>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-100%25-yellow?style=flat-square&logo=Javascript"/>
         </td>
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/ivangil-dev/Ghost/tree/5.26.1-castellano"><b>:ghost: Ghost Blog en español</b></a></td>
         <td>Inactivo (Público :unlock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-79,6%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-79,6%25-yellow?style=flat-square&logo=Javascript"/>
         <img alt="Language" src="https://img.shields.io/badge/Handlebars-9,9%25-orange?style=flat-square&logo=appveyor"/>
         </td>
       </tr>
@@ -113,7 +166,7 @@
 	      <td><a href="https://github.com/ivangil-dev/comments-ui/tree/0.12.3-castellano"><b> 🗯️ Comments UI en castellano</b></a></td>
         <td>Inactivo (Público :unlock:)</td>
         <td>
-        <img alt="Language" src="https://img.shields.io/badge/Javascript-98,2%25-yellow?style=flat-square&logo=appveyor"/>
+        <img alt="Language" src="https://img.shields.io/badge/Javascript-98,2%25-yellow?style=flat-square&logo=Javascript"/>
         </td>
       </tr>
     </tbody>
@@ -125,10 +178,10 @@
   <summary><b>⚙️ Mis herramientas y espacio de trabajo :computer:</b></summary>
   	<ul>
   	  <li><b>Sistemas:</b> Ubuntu server 20.04 & Windows 11 Pro</li>
-	    <li><b>Portátil: </b> Huawei Matebook D15</li>
-  	  <li><b>Navegador: </b> Chrome & Chrome Canary</li>
-	    <li><b>Terminal: </b> Hyper</li>
-	    <li><b>Editor:</b> Visual Studio Code</li>
+	    <li><b>Portátil: </b> Huawei Matebook D15 i MSI i7</li>
+  	    <li><b>Navegador: </b>Chrome Canary && Edge chromium</li>
+	    <li><b>Terminal: </b> Hyper & CMD Windows</li>
+	    <li><b>Editor favorito:</b> Visual Studio Code</li>
 	    <li><b>Ordenador:</b> AMD Ryzen 9 3900X (12Core) 128GB RAM, RTX 2070 Super</li>
 	    <br />
 	</ul>
