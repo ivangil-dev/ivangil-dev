@@ -178,8 +178,8 @@
   <summary><b>⚙️ Mis herramientas y espacio de trabajo :computer:</b></summary>
   	<ul>
   	  <li><b>Sistemas:</b> Ubuntu server 20.04 & Windows 11 Pro</li>
-	    <li><b>Portátil: </b> Huawei Matebook D15 i MSI i7</li>
-  	    <li><b>Navegador: </b>Chrome Canary && Edge chromium</li>
+	    <li><b>Portátil: </b> Huawei Matebook D15 & MSI i7</li>
+  	    <li><b>Navegador: </b>Chrome Canary & Edge chromium</li>
 	    <li><b>Terminal: </b> Hyper & CMD Windows</li>
 	    <li><b>Editor favorito:</b> Visual Studio Code</li>
 	    <li><b>Ordenador:</b> AMD Ryzen 9 3900X (12Core) 128GB RAM, RTX 2070 Super</li>
