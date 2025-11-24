@@ -66,7 +66,7 @@
         <img alt="Language" src="https://img.shields.io/badge/SCSS-1%2C5%25-pink?style=flat-square&logo=sass"/>
         </td>
       </tr>
-	      <td><a href="https://gitlab.com/ping-pong-technologies-sl/vision360/p00019"><b>📱 PWA VR 360º</b></a></td>
+	      <td><b>📱 PWA VR 360º</b></td>
         <td>Activo (Privado :lock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Vue-90%2C7%25-green?style=flat-square&logo=vue.js"/>
