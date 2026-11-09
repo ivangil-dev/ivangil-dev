@@ -1,5 +1,5 @@
 ![Header](./github-header-image.jpg)
-<a href="https://ivangil.es">![Ivangil.es](https://img.shields.io/badge/Mi%20sitio%20web-ivangil.es-purple?style=for-the-badge&logo=appveyor)</a>
+<a href="https://ivangil.dev">![Ivangil.es](https://img.shields.io/badge/Mi%20sitio%20web-ivangil.es-purple?style=for-the-badge&logo=appveyor)</a>
 </br></br>
 **Mis lenguajes y herramientas habituales:**  
 
@@ -17,7 +17,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-%23F5792A.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Gitlab](https://img.shields.io/badge/gitlab-%23E34F26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 <br><br>
 ### :bookmark_tabs: Algunos sitios que gestiono actualmente
-- [ivangil.es](https://ivangil.es/)
+- [ivangil.dev](https://ivangil.dev/)
 - [Plataforma](https://plataforma.green/)
 - [Ping Pong Technologies](https://pingpongtech.com/)
 
@@ -35,7 +35,7 @@
     </thead>
     <tbody>
 	    <tr>
-	      <td><a href="https://ivangil.es"><b>🚩 Sitio web Personal</b></a></td>
+	      <td><a href="https://ivangil.dev"><b>🚩 Sitio web Personal</b></a></td>
         <td>Pausado (Privado :lock:)</td>
         <td>
         <img alt="Language" src="https://img.shields.io/badge/Javascript-40%2C5%25-yellow?style=flat-square&logo=Javascript"/>
@@ -174,21 +174,12 @@
   <summary><b>⚙️ Mis herramientas y espacio de trabajo :computer:</b></summary>
   	<ul>
   	  <li><b>Sistemas:</b> Ubuntu server 20.04 & Windows 11 Pro</li>
-	    <li><b>Portátil: </b> Huawei Matebook D15 & MSI i7</li>
+	    <li><b>Portátil: </b> Asus Vivobook 16X</li>
   	    <li><b>Navegador: </b>Chrome Canary & Edge chromium</li>
 	    <li><b>Terminal: </b> Hyper & CMD Windows</li>
 	    <li><b>Editor favorito:</b> Visual Studio Code</li>
-	    <li><b>Ordenador:</b> AMD Ryzen 9 3900X (12Core) 128GB RAM, RTX 2070 Super</li>
 	    <br />
 	</ul>
-</details>
-
-<details>	
-  <br />
-	<summary><b>:chart_with_upwards_trend: La puntuación de mi sitio web principal</b></summary>
-	
-<a href="https://omniscientia.es" target="_blank">![Puntuación Omniscientia-es](./omniscientia.svg "Visitar sitio web")</a>
-	
 </details>
 
 ---- 
